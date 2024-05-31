@@ -11,5 +11,5 @@
  
 ## Aplicativo - aparência
 
-<img src="https://github.com/stxrkwas/Atividade09_PAMII/blob/3bd20f06cac3dff204101fd551d9859ca8f78675/.img/Tela%20do%20app.jpg" height="450" align="center"></img>
+<img src="https://github.com/stxrkwas/Atividade09_PAMII/blob/3bd20f06cac3dff204101fd551d9859ca8f78675/.img/Tela%20do%20app.jpg" height="450" align="justify"></img>
 
