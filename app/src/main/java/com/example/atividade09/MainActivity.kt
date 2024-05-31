@@ -165,8 +165,8 @@ fun NewApp() {
             // Define o texto do botão
             text = "Nota 1",
 
-            // Chaam a função que define as cores dos botões
-            buttonColors = DebugButtonColors(),
+            // Chama a função que define as cores dos botões
+            buttonColors = InfoButtonColors(),
 
             // Define o tamanho do botão
             modifier = Modifier.fillMaxWidth(0.5f)
@@ -184,7 +184,7 @@ fun NewApp() {
             text = "Nota 2",
 
             // Chama a função que define as cores dos botões
-            buttonColors = InfoButtonColors(),
+            buttonColors = DebugButtonColors(),
 
             // Define o tamanho do botão
             modifier = Modifier.fillMaxWidth(0.5f)
