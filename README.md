@@ -21,6 +21,8 @@
    <img src="https://github.com/stxrkwas/Atividade09_PAMII/blob/3bde3d6434577a12daa60752be1a4b9b7a0ed40f/.img/Nome_user.jpg" height="450"></img>
 </div>
 
+<div>&nbsp;</div>
+
 <div align="center">
   <img src="https://github.com/stxrkwas/Atividade09_PAMII/blob/3bde3d6434577a12daa60752be1a4b9b7a0ed40f/.img/Sa%C3%ADda%20logcat.jpg" height="200"></img>
 </div>
