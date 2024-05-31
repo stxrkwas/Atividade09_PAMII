@@ -9,4 +9,7 @@
   - Botão em Verde : ao apertar o botão informar a mensagem no LOGCAT = nota B;
   - Botão em Azul: ao apertar o botão informar a mensagem no LOGCAT = nota MB;
  
-## Aplicativo
+## Aplicativo - aparência
+
+<img src=""></img>
+
